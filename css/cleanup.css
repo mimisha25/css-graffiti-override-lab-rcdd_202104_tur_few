@@ -3,3 +3,7 @@
 position: relative;
 overflow: hidden;
 }
+
+#wall .tag-1 {
+  display: none;
+}
